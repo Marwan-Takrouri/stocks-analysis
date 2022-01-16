@@ -1,5 +1,6 @@
 # stocks-analysis
-***Project overview:***
+***Project overview:*** 
+
 The main purpose of this analysis is to help Steve’s parents decide on which green energy stocks they should invest. Steve would like to help his parents not only to decide on which stocks to invest but also to ensure making a good return on their investment. Steve’s parents are precisely interested to invest on Stock named DQ in Green energy. 
 Analyzing with VBA has been widely used in the financial data sets. Through taking 2017,2018 data of the returns on prices of the DQ stock and all the other stocks, we will be able to help Steve and his parents to make a comparison so they can make their final decision.
 
