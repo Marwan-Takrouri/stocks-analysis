@@ -15,7 +15,7 @@ Screen shot 1
 Screen shot2
 With the refactoring, we can see clearly in the screen shots, as the elapsed time was less than the original code, in my opinion the coding itself took longer to be written as we did create 4 different arrays in the coding.
 
-Screen shot 1
+https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2017%20allstockanalysis.png
 Screen shot 2
 
 
