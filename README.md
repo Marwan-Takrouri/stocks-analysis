@@ -11,13 +11,16 @@ In 2017 the DQ stock returns with about 199%, while in 2018 it dropped with 62.6
 While taking in consideration the return of investment; it is better to avoid DQ stocks and investing in ENPH instead.
 Debugging for the refactor is takes long time as it seems repetitive, and the arrays looks like the original code.
 During the original coding and analysis, we did analyze the data for 2017,2018, and then debugging the code we measured the time elapsed to execute the code as follow:
-Screen shot 1
-Screen shot2
+
+![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2017%20allstockanalysis.png)
+
+![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2018%20all%20stock%20analysis%20.png)
+
 With the refactoring, we can see clearly in the screen shots, as the elapsed time was less than the original code, in my opinion the coding itself took longer to be written as we did create 4 different arrays in the coding.
 
+![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2017%20refactored%20.png)
 
-
-
+![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2018%20refactored.png)
 
 
 
