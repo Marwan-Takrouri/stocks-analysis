@@ -7,21 +7,15 @@ Analyzing with VBA has been widely used in the financial data sets. Through taki
 
 ***Analysis Summary :***
 
-As we can see in the following screen shots of the VBA coding, we run on 2017, 2018 and then with the refactored code we can clearly see and share with Steve and his Parents the below outcomes:
-In 2017 the DQ stock returns with about 199%, while in 2018 it dropped with 62.6%. This indicates that the best return was in 2017 and the lowest is in 2018.
-While taking in consideration the return of investment; it is better to avoid DQ stocks and investing in ENPH instead.
-Debugging for the refactor is takes long time as it seems repetitive, and the arrays looks like the original code.
-During the original coding and analysis, we did analyze the data for 2017,2018, and then debugging the code we measured the time elapsed to execute the code as follow:
+Screenshots of runtimes are included for 2017 and 2018 with the original code, as well as for the refactored code. In this circumstance, the runtime were a touch slower for the refactored code, as per below:
 
-![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2017%20allstockanalysis.png)
+**Original stock analysis-2017-Runtime:**
 
-![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2018%20all%20stock%20analysis%20.png)
+**Refactored All stock analysis-2017 Runtime**
 
-With the refactoring, we can see clearly in the screen shots, as the elapsed time was less than the original code, in my opinion the coding itself took longer to be written as we did create 4 different arrays in the coding.
+**Original stock analysis-2018-Runtime:**
 
-![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2017%20refactored%20.png)
-
-![alt text](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/2018%20refactored.png)
+**Refactored All stock analysis-2018 Runtime**
 
 
 
