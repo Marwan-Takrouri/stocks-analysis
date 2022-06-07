@@ -11,13 +11,16 @@ Screenshots of runtimes are included for 2017 and 2018 with the original code, a
 
 **Original stock analysis-2017-Runtime:**
 
+![This is an image](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/All%20stock%20analysis-2017-%20original%20runtime.png)
 **Refactored All stock analysis-2017 Runtime**
 
+![This is an image](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/All%20stock%20analysis-2017-refactored%20runtime.png)
 **Original stock analysis-2018-Runtime:**
 
+![This is an image](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/All%20stock%20analysis-2018-%20original%20runtime.png)
 **Refactored All stock analysis-2018 Runtime**
 
-
+![This is an image](https://github.com/Marwan-Takrouri/stocks-analysis/blob/main/All%20stock%20analysis-2018-refactored%20runtime.png)
 
 ***Results :***
 
