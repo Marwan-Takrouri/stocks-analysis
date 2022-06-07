@@ -27,9 +27,10 @@ With the refactoring, we can see clearly in the screen shots, as the elapsed tim
 
 ***Results :***
 
-In 2017 the DQ stock returns with about 199% , while in 2018 it dropped with 62.6%.
-It was the best return in 2017 and the lowest in 2018.
-While taking in consideration return of investment: it is better to avoid DQ and thinking on investing in ENPH instead.
+* In 2017 the DQ stock returns with about 199% , while in 2018 it dropped with 62.6%.It was the best return in 2017 and the lowest in 2018.
+* While taking in consideration return of investment: it is better to avoid DQ and thinking on investing in ENPH instead.
+* The advantages of refactoring code are to make it run more efficiently and quicker.However,refatoring can also make the code more clear for others to read.
+* The goal for the refactored code was to have the runtime faster so the code could be used to run over a larger stock tickers that could be added to the tickers array,however the two codes ran in a similar amount of time.
 
 
 
